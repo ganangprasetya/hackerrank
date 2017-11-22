@@ -23,4 +23,5 @@ $ar = explode(" ",$ar_temp);
 $ar = array_map('intval', $ar);
 $result = birthdayCakeCandles($n, $ar);
 echo $result . "\n";
+fclose($handle);
 ?>

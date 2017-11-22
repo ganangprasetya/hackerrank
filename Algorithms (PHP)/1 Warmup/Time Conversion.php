@@ -13,3 +13,4 @@ if (strpos($time, 'AM') > 0) {
 }
 echo str_pad($timeArr[0], 2, '0', STR_PAD_LEFT).':'.$timeArr[1].':'.$timeArr[2];
 fclose($handle);
+?>

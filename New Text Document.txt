@@ -1,2 +1,0 @@
-git remote add origin https://github.com/ganangprasetya/hackerrank.git
-git push -u origin master
